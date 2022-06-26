@@ -1,0 +1,217 @@
+{
+    "data":[
+ {
+   "id":1,
+
+    "Q": " ________________ is the web browser developed by the Apple Inc." ,
+
+    "option":{
+            "A" :"Internet Explorer" ,
+            "B" :"Google Chrome ",
+            "C" :"Safari" ,
+            "D": "Firefox" 
+        },
+    "ans":"safari",
+    "subject":"CS/IT"
+
+}
+,
+
+{
+    "id":2,
+
+    "Q":"Which one is not the part of Central Processing Unit? ",
+   "option": {
+    "A" :"Arithmetic Logic Unit (ALU) ",
+    "B":"Control Unit (CU) ",
+    "C": "Visual Display Unit (VDU) ",
+    "D": "Registers"
+    }
+    ,
+    "ans": "Visual Display Unit (VDU) ",
+    "subject":"CS/IT"
+},
+{
+    "id":3,
+
+    "Q":"The _____________ is the most portable device among these devices.",
+    "option": {
+
+       " A" :"IBM PC" ,
+        "B" :"Laptop ",
+        "C" :"Netbook ",
+        "D": "Smartpho"
+                },
+    "ans":"IBM PC",
+    "subject":"CS/IT"
+
+},{
+
+    "id":4,
+
+    "Q":"The computer performance affected by: ",
+    "option":
+   { "A" :"CPU speed ",
+    "B" :"RAM size ",
+    "C": "The number of applications running ",
+    "D":" All the above}"
+},
+    "ans":"RAM size ",
+    "subject":"CS/IT"
+}
+,
+{
+    "id":5,
+    
+    "Q":"The speed of a CPU can be calculated in ____________." ,
+   "option":{ 
+    "A" :"Terabyte ",
+    "B":" GHz ",
+    "C" :"DDR ",
+    "D" :"MbPS"},
+    "ans":"GHz",
+    "subject":"CS/IT"
+},{
+    "id":6,
+    
+    "Q":"The ________ port is used to connect PC with network. ",
+   "option":{ 
+    "A" :"USB" ,
+    "B":"Serial" ,
+    "C" :"Parallel ",
+    "D" :"Network"
+},
+    "ans":"Network",
+    "subject":"CS/IT"
+},
+{
+    "id":7,
+    
+    "Q":"Which one is not a permanent storage medium?" ,
+    "option":{
+    "A":"RAM" ,
+    "B": "ROM", 
+    "C" :"CD", 
+    "D" :"DVD"
+},
+    "ans":"RAM",
+    "subject":"CS/IT"
+},
+{
+    "id":8,
+    
+    "Q":"Copying something from the Internet is usually known as _________.",
+
+    "option":{
+    "A": "Downloading ",
+    "B": "Uploading ",
+    "C": "Buffering", 
+    "D": "None of above"
+},
+    "ans":"Downloading ",
+    "subject":"CS/IT"
+},
+{
+    "id":9,
+    
+    "Q":"The phrase ___________ relates to managing your money online. ",
+   "option":{ 
+    "A":" E-commerce ",
+    "B ":"E-mail ",
+    "C" :"E-banking" ,
+    "D":" E-government"
+},
+    "ans":"E-banking" ,
+    "subject":"CS/IT"
+},{
+    "id":10,
+    
+    "Q":"The internet is the network of _______________. ",
+   "option":{ 
+    "A":" Networks ",
+    "B ":"Personal Computers" ,
+    "C":" Smart Phones" ,
+    "D":" None of above"
+},
+    "ans":" Networks ",
+    "subject":"CS/IT"
+},
+{
+    "id":11,
+    
+    "Q":"‘mho’ is the unit of",
+  "option": { 
+    "A" :"specific resistance",
+    "B" :"conductivity",
+    "C" :"resistance",
+    "D" :"capacitor" 
+},
+    "ans":"specific resistance",
+    "subject":"Physics"
+
+
+}
+,
+{
+    "id":12,
+    
+    "Q":"Which one of the following is a good conductor of electricity?",
+   "option" :{
+    "A": "Glass",
+    "B": "Human body",
+    "C": "Ebonics",
+    "D": "Shellac"
+}
+,
+    "ans":"Human body",
+    "subject":"Physics"
+}
+
+,{
+    "id":13,
+    
+    "Q":"Which one of the following has maximum energy?",
+    "option":{
+    "A": "Yellow light",
+    "B": "Green light",
+    "C": "Violet light",
+    "D": "Red light"
+}
+,
+    "ans":"Violet light",
+    "subject":"Physics"
+}
+
+,
+{
+    "id":14,
+    
+    "Q":"According to Einstein’s theory of relativity when a body moves with a velocity comparable to the velocity of light, its",
+    "option":{   
+    "A": " mass and length increase",
+    "B": " mass and length decrease",
+    "C": "length decreases but mass increases",
+    "D": "length increases but mass decrease"},
+
+    "ans":"length increases but mass decrease",
+    "subject":"Physics"
+
+},
+{
+
+    "id":15,
+    
+    "Q": "Nuclear fission is caused by the impact of",
+    "option":{
+    "A": "positron",
+    "B": "neutron",
+    "C":   "electron",
+    "D": "proton"
+},
+    "ans":"neutron",
+    "subject":"Physics"
+
+}
+
+
+]}
