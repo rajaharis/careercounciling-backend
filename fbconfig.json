@@ -1,10 +1,9 @@
 {
-    "apiKey": "AIzaSyDLE4cMUIkn3vuUgj4APvPXhoqT5mT2E1s",
-    "authDomain": "career-counciling.firebaseapp.com",
-    "databaseURL": "https://career-counciling-default-rtdb.firebaseio.com",
-    "projectId": "career-counciling",
-    "storageBucket": "career-counciling.appspot.com",
-    "messagingSenderId": "869593910314",
-    "appId": "1:869593910314:web:564ca1976ac5668cbe0753",
-    "measurementId": "G-6VNK41EZWT"
+  "apiKey": "AIzaSyA9-am30_imRLnbKeFwCMisWyg3WN2AHak",
+  "authDomain": "careercounciling-96e99.firebaseapp.com",
+  "projectId": "careercounciling-96e99",
+  "storageBucket": "careercounciling-96e99.appspot.com",
+  "messagingSenderId": "722855540336",
+  "appId": "1:722855540336:web:08d4d0f3f36ddbbab026b5",
+  "measurementId": "G-8FG9BG5HS3"
   }
