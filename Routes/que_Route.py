@@ -1,5 +1,9 @@
+from crypt import methods
 from flask import Blueprint, jsonify ,request
 import json
+
+from matplotlib.pyplot import get
+from requests import post
 
 
 que_Routes=Blueprint("routes ",__name__)
@@ -7,15 +11,17 @@ que_Routes=Blueprint("routes ",__name__)
 f= open('questions.json')
 
 data = json.load(f)
-my_list = []
-str1 = "" 
+my_list = [] 
 f.close()
-for i in data['data']:
-    my_list.append(i)
+# for i in data[]:
     
 
-@que_Routes.route("/questions")
+@que_Routes.route("/questions",methods=['GET', 'POST'])
 def get_que():
-    return jsonify(my_list)
+    # index = int(request.form['index'])
+    # print(index)
 
+    return jsonify(data)
+
+    
 
