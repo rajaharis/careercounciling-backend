@@ -1,188 +1,658 @@
 [
- {
-    "id":1,
-    "Q": "Which is the web browser developed by the Apple Inc." ,
-    "option":{
-            "A" :"Internet Explorer" ,
-            "B" :"Google Chrome ",
-            "C" :"Safari",
-            "D": "Firefox" 
+    {
+        "id": 1,
+  
+        "Q": " ________________ is the web browser developed by the Apple Inc.",
+  
+        "option": {
+          "A": "Internet Explorer",
+          "B": "Google Chrome ",
+          "C": "Safari",
+          "D": "Firefox"
         },
-    "ans":"Safari",
-    "subject":"CS/IT"
-
-},{
-    "id":2,
-    "Q":"The _____________ is the most portable device among these devices.",
-    "option": {
-
-       "A" :"IBM PC" ,
-        "B" :"Laptop ",
-        "C" :"Netbook ",
-        "D": "Smartpho"
-                },
-    "ans":"IBM PC" ,
-    "subject":"CS/IT"
-
-},{
-    "id":3,
-    "Q":"The computer performance affected by: ",
-    "option":
-   { "A" :"CPU speed ",
-    "B" :"RAM size",
-    "C": "The number of applications running ",
-    "D":" All the above}"
-},
-    "ans":"RAM size",
-    "subject":"CS/IT"
-}
-,
-{    "id":4,
-    "Q":"The speed of a CPU can be calculated in ____________." ,
-   "option":{ 
-    "A" :"Terabyte ",
-    "B":  "GHz",
-    "C" :"DDR ",
-    "D" :"MbPS"},
-    "ans":"GHz",
-    "subject":"CS/IT"
-},{
-    "id":5,
-    "Q":"The ________ port is used to connect PC with network. ",
-   "option":{ 
-    "A" :"USB" ,
-    "B":"Serial" ,
-    "C" :"Parallel",
-    "D" :"Network"
-},
-    "ans":"Network",
-    "subject":"CS/IT"
-},
-
-{ "id":6,
-    "Q":"The internet is the network of ____",
-    "option":{ 
-    "A":"Networks",
-    "B":"Personal Computers" ,
-    "C":"Smart Phones" ,
-    "D":"None of above"
-},
-    "ans":"Networks",
-    "subject":"CS/IT"
-},
-{
-    "id":7,
-    "Q":"‘mho’ is the unit of",
-  "option": { 
-    "A" :"specific resistance",
-    "B" :"conductivity",
-    "C" :"resistance",
-    "D" :"capacitor" 
-},
-    "ans":"specific resistance",
-    "subject":"Physics"
-
-
-}
-,
-{
-    "id":8,
-    
-    "Q":"Which one of the following is a good conductor of electricity?",
-   "option" :{
-    "A": "Glass",
-    "B": "Human body",
-    "C": "Ebonics",
-    "D": "Shellac"
-}
-,
-    "ans":"Human body",
-    "subject":"Physics"
-}
-
-,{
-    "id":9,
-    
-    "Q":"Which one of the following has maximum energy?",
-    "option":{
-    "A": "Yellow light",
-    "B": "Green light",
-    "C": "Violet light",
-    "D": "Red light"
-}
-,
-    "ans":"Violet light",
-    "subject":"Physics"
-}
-
-,
-{
-    "id":10,
-    
-    "Q":"According to Einstein’s theory of relativity when a body moves with a velocity comparable to the velocity of light, its",
-    "option":{   
-    "A": " mass and length increase",
-    "B": " mass and length decrease",
-    "C": "length decreases but mass increases",
-    "D": "length increases but mass decrease"
-},
-
-    "ans":"length increases but mass decrease",
-    "subject":"Physics"
-
-},
-{
-
-    "id":11,
-    "Q": "Nuclear fission is caused by the impact of",
-    "option":{
-    "A": "positron",
-    "B": "neutron",
-    "C":  "electron",
-    "D": "proton"
-},
-    "ans":"neutron",
-    "subject":"Physics"
-
-}
-,
-{
-    "id":12,
-    "Q":"Copying something from the Internet is usually known as _________.",
-
-    "option":{
-    "A": "Downloading",
-    "B": "Uploading ",
-    "C": "Buffering", 
-    "D": "None of above"
-},
-    "ans":"Downloading",
-    "subject":"CS/IT"
-}
-,
-{
-    "id":13,
-    "Q":"The phrase ___________ relates to managing your money online. ",
-   "option":{ 
-    "A":"E-commerce",
-    "B":"E-mail",
-    "C" :"E-banking" ,
-    "D":"E-government"
-},
-    "ans":"E-banking" ,
-    "subject":"CS/IT"
-}
-,{
-    "id":14,
-    "Q":"Which one is not a permanent storage medium?" ,
-    "option":{
-    "A":"RAM" ,
-    "B": "ROM", 
-    "C" :"CD", 
-    "D" :"DVD"
-},
-    "ans":"RAM",
-    "subject":"CS/IT"
-}
-
-]
+        "ans": "safari",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 2,
+  
+        "Q": "Which one is not the part of Central Processing Unit? ",
+        "option": {
+          "A": "Arithmetic Logic Unit (ALU) ",
+          "B": "Control Unit (CU) ",
+          "C": "Visual Display Unit (VDU) ",
+          "D": "Registers"
+        },
+        "ans": "Visual Display Unit (VDU) ",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 3,
+  
+        "Q": "The _____________ is the most portable device among these devices.",
+        "option": {
+          "A": "IBM PC",
+          "B": "Laptop ",
+          "C": "Netbook ",
+          "D": "Smartpho"
+        },
+        "ans": "IBM PC",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 4,
+  
+        "Q": "The computer performance affected by: ",
+        "option": {
+          "A": "CPU speed ",
+          "B": "RAM size ",
+          "C": "The number of applications running ",
+          "D": " All the above}"
+        },
+        "ans": "RAM size ",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 5,
+  
+        "Q": "The speed of a CPU can be calculated in ____________.",
+        "option": {
+          "A": "Terabyte ",
+          "B": " GHz ",
+          "C": "DDR ",
+          "D": "MbPS"
+        },
+        "ans": "GHz",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 6,
+  
+        "Q": "The ________ port is used to connect PC with network. ",
+        "option": {
+          "A": "USB",
+          "B": "Serial",
+          "C": "Parallel ",
+          "D": "Network"
+        },
+        "ans": "Network",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 7,
+  
+        "Q": "Which one is not a permanent storage medium?",
+        "option": {
+          "A": "RAM",
+          "B": "ROM",
+          "C": "CD",
+          "D": "DVD"
+        },
+        "ans": "RAM",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 8,
+  
+        "Q": "Copying something from the Internet is usually known as _________.",
+  
+        "option": {
+          "A": "Downloading ",
+          "B": "Uploading ",
+          "C": "Buffering",
+          "D": "None of above"
+        },
+        "ans": "Downloading ",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 9,
+  
+        "Q": "The phrase ___________ relates to managing your money online. ",
+        "option": {
+          "A": " E-commerce ",
+          "B": "E-mail ",
+          "C": "E-banking",
+          "D": " E-government"
+        },
+        "ans": "E-banking",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 10,
+  
+        "Q": "The internet is the network of _______________. ",
+        "option": {
+          "A": " Networks ",
+          "B": "Personal Computers",
+          "C": " Smart Phones",
+          "D": " None of above"
+        },
+        "ans": " Networks ",
+        "subject": "CS/IT"
+      },
+      {
+        "id": 11,
+  
+        "Q": "‘mho’ is the unit of",
+        "option": {
+          "A": "specific resistance",
+          "B": "conductivity",
+          "C": "resistance",
+          "D": "capacitor"
+        },
+        "ans": "specific resistance",
+        "subject": "Physics"
+      },
+      {
+        "id": 12,
+  
+        "Q": "Which one of the following is a good conductor of electricity?",
+        "option": {
+          "A": "Glass",
+          "B": "Human body",
+          "C": "Ebonics",
+          "D": "Shellac"
+        },
+        "ans": "Human body",
+        "subject": "Physics"
+      },
+  
+      {
+        "id": 13,
+  
+        "Q": "Which one of the following has maximum energy?",
+        "option": {
+          "A": "Yellow light",
+          "B": "Green light",
+          "C": "Violet light",
+          "D": "Red light"
+        },
+        "ans": "Violet light",
+        "subject": "Physics"
+      },
+  
+      {
+        "id": 14,
+  
+        "Q": "According to Einstein’s theory of relativity when a body moves with a velocity comparable to the velocity of light, its",
+        "option": {
+          "A": " mass and length increase",
+          "B": " mass and length decrease",
+          "C": "length decreases but mass increases",
+          "D": "length increases but mass decrease"
+        },
+  
+        "ans": "length increases but mass decrease",
+        "subject": "Physics"
+      },
+      {
+        "id": 15,
+  
+        "Q": "Nuclear fission is caused by the impact of",
+        "option": {
+          "A": "positron",
+          "B": "neutron",
+          "C": "electron",
+          "D": "proton"
+        },
+        "ans": "neutron",
+        "subject": "Physics"
+      },
+      {
+        "id": 16,
+  
+        "Q": " _____ physical quantity is measure in watts.",
+        "option": {
+          "A": "Kinetic energy",
+          "B": "Momentum",
+          "C": "Impulse",
+          "D": "Power"
+        },
+        "ans": "Power",
+        "subject": "Physics"
+      },
+      {
+        "id": 17,
+  
+        "Q": " What is the unit of power in SI?",
+        "option": {
+          "A": "Joule",
+          "B": "Newton",
+          "C": "Erg/Sec",
+          "D": "Joule/Sec"
+        },
+        "ans": "Joule/Sec",
+        "subject": "Physics"
+      },
+      {
+        "id": 18,
+  
+        "Q": "The focal length of convex lens is",
+        "option": {
+          "A": "shorter for blue light than for red",
+          "B": "shorter for red light than for blue",
+          "C": "maximum for yellow light",
+          "D": "the same for all the co lours"
+        },
+        "ans": "shorter for blue light than for red",
+        "subject": "Physics"
+      },
+      {
+        "id": 19,
+  
+        "Q": "Which is type of vector quantity?",
+        "option": {
+          "A": "Work",
+          "B": "Force",
+          "C": "Speed",
+          "D": "Power"
+        },
+        "ans": "neutron",
+        "subject": "Physics"
+      },
+      {
+        "id": 20,
+  
+        "Q": "Which is type of Scalar quantity?",
+        "option": {
+          "A": "Time",
+          "B": "Force",
+          "C": "Lift",
+          "D": "Drag"
+        },
+        "ans": "Time",
+        "subject": "Physics"
+      },
+      {
+        "id": 21,
+  
+        "Q": " The soul of chemistry is dealing with_____?",
+        "option": {
+          "A": "Internal structural changes in matter",
+          "B": "Composition of matter",
+          "C": "Properties of matter",
+          "D": "Composition and properties of matter"
+        },
+        "ans": "Composition and properties of matter",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 22,
+  
+        "Q": "All of the following substances are crystalline except_____?",
+        "option": {
+          "A": "Ice",
+          "B": "Diamond",
+          "C": "Sucrose",
+          "D": "Plastic"
+        },
+        "ans": "Plastic",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 23,
+  
+        "Q": " Diameter of an atom is in the order of______?",
+        "option": {
+          "A": "0.2m",
+          "B": " 0.2mm",
+          "C": "0.2nm",
+          "D": "0.2pm"
+        },
+        "ans": "0.2nm",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 24,
+  
+        "Q": "Which one of the following has the maximum number of isotopes ?",
+        "option": {
+          "A": "oxygen",
+          "B": "carbon",
+          "C": "tin",
+          "D": "chlorine"
+        },
+        "ans": "tin",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 25,
+  
+        "Q": "1 a.m.u is  = ______?",
+        "option": {
+          "A": "1.6 x 10-27 kg",
+          "B": "1.6 x 10-24 kg",
+          "C": "1.6 x 10-26 kg",
+          "D": "1.6 x 10-28 kg"
+        },
+        "ans": "1.6 x 10-27 kg",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 26,
+  
+        "Q": "The nucleus of an atom of every element will always contain________",
+        "option": {
+          "A": "neutrons",
+          "B": "protons and electrons",
+          "C": "protons",
+          "D": "protons and neutrons"
+        },
+        "ans": "protons",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 27,
+  
+        "Q": " All the following variables are used to describe gases except________?",
+        "option": {
+          "A": "pressure",
+          "B": "volume",
+          "C": "moles",
+          "D": "density"
+        },
+        "ans": "density",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 28,
+  
+        "Q": "The formula showing the simplest whole-number ratio is",
+        "option": {
+          "A": "scientific",
+          "B": "mathematical",
+          "C": "molecular",
+          "D": "empirical"
+        },
+        "ans": "empirical",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 29,
+  
+        "Q": "Which of the following are the most and the least electronegative elements in the periodic table?",
+        "option": {
+          "A": "Fluorine and Cesium",
+          "B": "Hydrogen and Helium",
+          "C": "Carbon and Oxygen",
+          "D": "Chlorine and Fluorine"
+        },
+        "ans": "Fluorine and Cesium",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 30,
+  
+        "Q": "The most abundant element in the universe is",
+        "option": {
+          "A": "Hydrogen",
+          "B": "Oxygen",
+          "C": "Carbon dioxide",
+          "D": "Silicon"
+        },
+        "ans": "Hydrogen",
+        "subject": "Chemistry"
+      },
+      {
+        "id": 31,
+  
+        "Q": "If -4x + 5y is subtracted from 3x + 2y then the answer will be",
+        "option": {
+          "A": "3x + 6y",
+          "B": "2x + 5y",
+          "C": "x - 3y",
+          "D": "x + 3"
+        },
+        "ans":"x - 3y",
+        "subject": "Math"
+      },
+      {
+        "id": 32,
+  
+        "Q": "An algebraic expression that contains only one term is called:",
+        "option": {
+          "A": "Monomial",
+          "B": "Binomial",
+          "C": "Trinomial",
+          "D": "None of the above"
+        },
+        "ans": "Trinomial",
+        "subject": "Math"
+      },
+      {
+        "id": 33,
+  
+        "Q": "A polynomial contains _______ number of terms:",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Any"
+        },
+        "ans": "Any",
+        "subject": "Math"
+      },
+      {
+        "id": 34,
+  
+        "Q": "(a – b)² is equal to:",
+        "option": {
+          "A": "a² + b² – 2ab",
+          "B": "a² + b² + 2ab",
+          "C": "a² + b²",
+          "D": "2ab"
+        },
+        "ans": "a² + b² – 2ab",
+        "subject": "Math"
+      },
+      {
+        "id": 35,
+  
+        "Q": "The product of 4x and 0 is:",
+        "option": {
+          "A": "4x",
+          "B": "4",
+          "C": "0",
+          "D": "None of the above"
+        },
+        "ans": "0",
+        "subject": "Math"
+      },
+      {
+        "id": 36,
+  
+        "Q": "The average of the polynomials, 2x2 + 5x -6, 5x2 – 5x – 6 and 30 – 7x2 is:",
+        "option": {
+          "A": "14",
+          "B": "6",
+          "C": "18",
+          "D": "5x"
+        },
+        "ans": "6",
+        "subject": "Math"
+      },
+      {
+        "id": 37,
+  
+        "Q": "The value x2 + 5x + 6 at x=2?",
+        "option": {
+          "A": "2",
+          "B": "10",
+          "C": "15",
+          "D": "20"
+        },
+        "ans": "20",
+        "subject": "Math"
+      },
+      {
+        "id": 38,
+  
+        "Q": "The denominator of the fraction 4/11 is",
+        "option": {
+          "A": "4",
+          "B": "11",
+          "C": "4+11",
+          "D": "11-4"
+        },
+        "ans": "11",
+        "subject": "Math"
+      },
+      {
+        "id": 39,
+  
+        "Q": "5/6 is a:",
+        "option": {
+          "A": "proper fraction",
+          "B": "improper fraction",
+          "C": "mixed fraction",
+          "D": "none of these"
+        },
+        "ans": "proper fraction",
+        "subject": "Math"
+      },
+      {
+        "id": 40,
+  
+        "Q": "If the numerator and denominator of a fraction are equal, then the fraction:",
+        "option": {
+          "A": "is equal to 1",
+          "B": "is less than 1",
+          "C": "is equal to 0",
+          "D": "is greater than 1"
+        },
+        "ans": "is equal to 1",
+        "subject": "Math"
+      },
+      {
+        "id": 41,
+  
+        "Q": "Business means__________?",
+        "option": {
+          "A": "Commerce",
+          "B": "Industry and commerce",
+          "C": "Trade and commerce",
+          "D": "Selling and buying of goods"
+        },
+        "ans": "Industry and commerce",
+        "subject": "Business"
+      },
+      {
+        "id": 42,
+  
+        "Q": "Which company launches the ‘Project Brainwave’ for Real-Time AI?",
+        "option": {
+          "A": "Samsung",
+          "B": "Google",
+          "C": "Microsoft",
+          "D": "is greater than 1"
+        },
+        "ans": "Microsoft",
+        "subject": "Business"
+      },
+      {
+        "id": 43,
+  
+        "Q": "Economic activities may be classified into business, ___________ and employment",
+        "option": {
+          "A": "Profession",
+          "B": "occupation",
+          "C": "vocation",
+          "D": "work"
+        },
+        "ans": "Profession",
+        "subject": "Business"
+      },
+      {
+        "id": 44,
+  
+        "Q": "Who is considered to be the Father of Economics?",
+        "option": {
+          "A": "Adam Walsh",
+          "B": "Frederick Taylor",
+          "C": "Thomas Malthus",
+          "D": "Thomas Carley"
+        },
+        "ans": "Adam Walsh",
+        "subject": "Business"
+      },
+      {
+        "id": 45,
+  
+        "Q": "What does GDP stand for?",
+        "option": {
+          "A": "Gross Domestic Product",
+          "B": "Good Distribution Practice",
+          "C": "Global Detection Probability",
+          "D": "Global Data Pool"
+        },
+        "ans": "Gross Domestic Product",
+        "subject": "Business"
+      },
+      {
+        "id": 46,
+  
+        "Q": "Which is a phase of the business cycle?",
+        "option": {
+          "A": "Economic boom and recession",
+          "B": "Depression",
+          "C": "Recovery",
+          "D": "All of the above"
+        },
+        "ans": "All of the above",
+        "subject": "Business"
+      },
+      {
+        "id": 47,
+  
+        "Q": "The amount of money a business earns above and beyond what it spends for salaries and other expenses is called:",
+        "option": {
+          "A": "Savings",
+          "B": "Cash receipts",
+          "C": "Revenue",
+          "D": "Profit"
+        },
+        "ans": "Revenue",
+        "subject": "Business"
+      },
+      {
+        "id": 48,
+  
+        "Q": "The activity of providing goods or services to others while operating at a profit is called a _____________.",
+        "option": {
+          "A": "Consumer advocating",
+          "B": "Business",
+          "C": "Barter systems",
+          "D": "None of the above"
+        },
+        "ans": "Business",
+        "subject": "Business"
+      },
+      {
+        "id": 49,
+  
+        "Q": "Productivity is __________________",
+        "option": {
+          "A": "The process of producing goods.",
+          "B": "The amount of input you generate given the amount of output.",
+          "C": "The amount of output you generate given the amount of input",
+          "D": "Revolt"
+        },
+        "ans": "The process of producing goods.",
+        "subject": "Business"
+      },
+      {
+        "id": 50,
+  
+        "Q": " There are four types of social responsibilities__________",
+        "option": {
+          "A": "Legal, Philanthropic, Economic & Ethical.",
+          "B": "Ethical, Moral, Social & Economic",
+          "C": "Philanthropic, Justice, Economic & Ethical.",
+          "D": "Legal, Ethical, Economical & Moral"
+        },
+        "ans": "Legal, Philanthropic, Economic & Ethical.",
+        "subject": "Business"
+      }
+    ]
+  
